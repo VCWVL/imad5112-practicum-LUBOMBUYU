@@ -1,0 +1,36 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable first_background
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable view_playlist
+drawable view_playlist_resized
+id imgBAdd
+id imgBDisplayPlay
+id imgBExit
+id imgBMainMenu
+id imgBRatings
+id imgBViewPlay
+id imgView1
+id imgView2
+id main
+id tvAddToPlay
+id tvBack
+id tvCurrentSong
+id tvExit
+id tvHeading
+id tvRatings
+id tvViewPlay
+id tvWelcome
+id txt
+layout activity_main
+layout activity_view_playlist
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Imad5112practicumLUBOMBUYU
+style Theme.Imad5112practicumLUBOMBUYU
+xml backup_rules
+xml data_extraction_rules
